@@ -1,0 +1,22 @@
+/* PUT FLUID GRID CODE HERE */
+
+.col {
+    float: left;
+    padding: 10px;
+    display: block;
+    margin-right: 0px;
+    box-sizing: border-box;
+}
+
+.col-left {
+    width: 25%;
+}
+
+.col-right {
+    width: 75%;
+}
+
+figure img {
+    width: 100%;
+}
+
